@@ -39,7 +39,3 @@ Run `npm run test:tablet` to run the appropriate tests in headless mode using a 
 Run `npm run cy:open` to open the __Cypress App__ to run tests in interactive mode using a desktop viewport.
 
 Run `npm run cy:open:tablet` to open the __Cypress App__ to run tests in interactive mode using a tablet viewport.
-
-___
-
-Made with ❤️ by [your-name-here](https://your-web-site-or-github-profile-here).
